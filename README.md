@@ -19,4 +19,4 @@ Proyecto para configurar la tarjeta SAML21 Xplained PRO junto con el módulo de 
 <br />
 -Porta pilas AAA.
 
-![portapilas](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/portapilas.jpg?raw=true)
+![portapilas1](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/portapilas1.jpg?raw=true)
