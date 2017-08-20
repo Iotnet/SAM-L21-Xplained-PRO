@@ -11,5 +11,12 @@ Proyecto para configurar la tarjeta SAML21 Xplained PRO junto con el módulo de 
 
 <br />
 -Módulo de conectividad Sigfox ATA8520E.
+
+![mod_sigfox](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/mod_sigfox.png?raw=true)
+
+<br />
+-2 pilas AAA.
 <br />
 -Porta pilas AAA.
+
+![portapilas](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/portapilas.jpg?raw=true)
