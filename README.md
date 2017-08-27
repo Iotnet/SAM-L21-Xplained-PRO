@@ -59,7 +59,7 @@ Una vez abierto el proyecto, seleccionar la pestaña SAML21_XplainedPRO_SW->Devi
 
 Ahora seleccionamos "Tool" y seleccionamos el programador "EDBG MSD ATML2241..."
 
-![sam6](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam6.jpg?raw=true)
+![sam6](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam6.png?raw=true)
 
 Finalmente, para correr el programa, se puede hacer de 2 formas: 
 
@@ -67,7 +67,7 @@ Finalmente, para correr el programa, se puede hacer de 2 formas:
 
 -Debug->Continue: permite debugear el proyecto para observar lo que esta pasando con las diferentes variables y detecar errores.
 
-![sam7](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam7.jpg?raw=true)
+![sam7](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam7.png?raw=true)
 
 
 
