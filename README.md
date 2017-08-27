@@ -46,7 +46,7 @@ Algunos ejemplos se pueden descargar en el siguiente link: http://www.atmel.com/
 
 Cerrar el programa Atmel Studio y desconectar la tarjeta. Conectar el módulo de expansión ATA8520E por el puerto "EXT1" y conectar el positivo y negativo del porta pilas en los pines correspondientes (Tener extremo cuidado de conectarlos correctamente y no aplicar mas de 3.3V, ya que la tarjeta no tiene protecciones por si se aplica más del voltaje indicado). 
 
-![sam8](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam8.jpeg?raw=true)
+![sam8](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam8.jpg?raw=true)
 
 Conectar a la computadora y ejecutar Atmel Studio. Ahora deberemos cargar el proyecto que nos permitirá mandar mensajes por medio de Sigfox. El proyecto se puede descargar en el siguiente link: http://www.atmel.com/images/ata8520-ek13-f_toolpack_v1_2.zip
 Descomprimir el archivo una vez descargado. En el programa ir a File->Open->Project/Solution y buscar la carpeta creada al descomprimir el archivo descargado. Ya en la carpeta ir a ata8520-ek13-f_toolpack_v1_2\Software\ATA8520-EK3-F\SAML21_XplainedPRO y seleccionar el archivo SAML21_XplainedPRO_SW.
