@@ -65,14 +65,16 @@ Finalmente, para correr el programa, se puede hacer de 2 formas:
 
 -Debug->Start Without Debugging: carga el proyecto a la tarjeta.
 
--Debug->Continue: permite debugear el proyecto para observar lo que esta pasando con las diferentes variables y detecar errores.
+-Debug->Continue: permite debugear el proyecto para observar lo que esta pasando con las diferentes variables y detectar errores.
 
 ![sam7](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam7.png?raw=true)
 
+## Mandando el primer mensaje ##
 
+Ya que esta cargado el programa en la tarjeta, esperar unos segundos y presionar el botón SW1 de la tarjeta ATA8520E. Al presionarlo, encenderan los 2 leds (Led 1 y Power). El Led 1 parpadeara 4 veces indicando que se está mandando el mensaje, el cual contiene la información del sensor de temperatura que trae la tarjeta y el voltaje de las baterias.
 
+![sam9](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam9.png?raw=true)
 
-
-
+Si parpadea mas de 5 veces, significa que la tarjeta de expansión no esta energizada correctamente.  
 
 
