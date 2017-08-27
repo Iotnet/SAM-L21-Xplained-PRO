@@ -51,6 +51,28 @@ Cerrar el programa Atmel Studio y desconectar la tarjeta. Conectar el módulo de
 Conectar a la computadora y ejecutar Atmel Studio. Ahora deberemos cargar el proyecto que nos permitirá mandar mensajes por medio de Sigfox. El proyecto se puede descargar en el siguiente link: http://www.atmel.com/images/ata8520-ek13-f_toolpack_v1_2.zip
 Descomprimir el archivo una vez descargado. 
 
-Dentro de Atmel Studio ir a File->Open->Project/Solution y buscar la carpeta creada al descomprimir el archivo descargado. Ya en la carpeta ir a ata8520-ek13-f_toolpack_v1_2\Software\ATA8520-EK3-F\SAML21_XplainedPRO y seleccionar el archivo SAML21_XplainedPRO_SW.
+Dentro de Atmel Studio, ir a File->Open->Project/Solution y buscar la carpeta creada al descomprimir el archivo descargado. Ya en la carpeta ir a ata8520-ek13-f_toolpack_v1_2\Software\ATA8520-EK3-F\SAML21_XplainedPRO y seleccionar el archivo SAML21_XplainedPRO_SW. 
+
+Una vez abierto el proyecto, seleccionar la pestaña SAML21_XplainedPRO_SW->Device y cambiar el dispositivo de ATSAML21J18A a ATSAML21J18B, dando click en "Change Device" y seleccionando ATSAML21J18B.
+
+![sam5](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam5.png?raw=true)
+
+Ahora seleccionamos "Tool" y seleccionamos el programador "EDBG MSD ATML2241..."
+
+![sam6](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam6.jpg?raw=true)
+
+Finalmente, para correr el programa, se puede hacer de 2 formas: 
+
+-Debug->Start Without Debugging: carga el proyecto a la tarjeta.
+
+-Debug->Continue: permite debugear el proyecto para observar lo que esta pasando con las diferentes variables y detecar errores.
+
+![sam7](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam7.jpg?raw=true)
+
+
+
+
+
+
 
 
