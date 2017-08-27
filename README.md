@@ -49,6 +49,8 @@ Cerrar el programa Atmel Studio y desconectar la tarjeta. Conectar el módulo de
 ![sam8](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam8.jpg?raw=true)
 
 Conectar a la computadora y ejecutar Atmel Studio. Ahora deberemos cargar el proyecto que nos permitirá mandar mensajes por medio de Sigfox. El proyecto se puede descargar en el siguiente link: http://www.atmel.com/images/ata8520-ek13-f_toolpack_v1_2.zip
-Descomprimir el archivo una vez descargado. En el programa ir a File->Open->Project/Solution y buscar la carpeta creada al descomprimir el archivo descargado. Ya en la carpeta ir a ata8520-ek13-f_toolpack_v1_2\Software\ATA8520-EK3-F\SAML21_XplainedPRO y seleccionar el archivo SAML21_XplainedPRO_SW.
+Descomprimir el archivo una vez descargado. 
+
+Dentro de Atmel Studio ir a File->Open->Project/Solution y buscar la carpeta creada al descomprimir el archivo descargado. Ya en la carpeta ir a ata8520-ek13-f_toolpack_v1_2\Software\ATA8520-EK3-F\SAML21_XplainedPRO y seleccionar el archivo SAML21_XplainedPRO_SW.
 
 
