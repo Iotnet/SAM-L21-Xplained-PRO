@@ -20,3 +20,10 @@ Proyecto para configurar la tarjeta SAML21 Xplained PRO junto con el módulo de 
 -Porta pilas AAA.
 
 ![portapilas1](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/portapilas1.jpg?raw=true)
+
+## Configuración de la tarjeta Atmel SAML21 Xplained Pro ##
+
+Una vez instalado el programa Atmel Studio, procedemos a configurar la tarjeta SAML21. 
+Conectamos la tarjeta a través del puerto "DEBUG USB" ppor medio de un cable hacia la computadora. Al conectarla, encenderan 2 leds
+
+![sam1](https://github.com/Iotnet/SAM-L21-Xplained-PRO/blob/master/images/sam1.png?raw=true) 
