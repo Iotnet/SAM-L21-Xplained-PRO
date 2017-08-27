@@ -1,9 +1,9 @@
 # SAM-L21-Xplained-PRO
-Proyecto para configurar la tarjeta SAML21 Xplained PRO junto con el módulo de Sigfox ATA8520E.
+Proyecto para configurar la tarjeta SAML21 Xplained PRO junto con el módulo de expansión de Sigfox ATA8520E.
 
 ## Equipo y software necesario ##
 <br />
--Atmel Studio (http://www.atmel.com/tools/ATMELSTUDIO.aspx, Unicamente para Windows. Durante la instalación, puede requerir que se instalen algunas actualizaciones de Windows.)
+-Atmel Studio (http://www.atmel.com/tools/ATMELSTUDIO.aspx, Únicamente para Windows. Durante la instalación, puede requerir que se instalen algunas actualizaciones de Windows.)
 <br />
 -Tarjeta Atmel SAML21 Xplained Pro.
 
